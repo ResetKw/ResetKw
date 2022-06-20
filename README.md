@@ -1,3 +1,2 @@
-Eae meu nome é Eduardo 
-tô aprendendo desenvolvimento web
-16y
+Eae meu nome é Eduardo, 
+tô aprendendo desenvolvimento web e tenho 16 anos
